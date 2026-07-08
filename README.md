@@ -10,6 +10,7 @@ I specialize in building intelligent applications from scratch, focusing on Pyth
 * **Core AI/ML:** Python • LLMs (Gemini API) • Prompt Engineering
 * **Backend & Web:** Flask • Streamlit • Java
 * **Systems & Tools:** Linux (Ubuntu/WSL) • Git & GitHub • Environment Management
+* **Cross Platform:** Flutter
 
 ---
 
