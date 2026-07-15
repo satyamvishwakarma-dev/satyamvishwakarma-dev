@@ -1,4 +1,4 @@
-# Hi, I'm Satyam 👋
+# Hi, I'm Satyam Vishwakarma 👋
 
 ### 🚀 Full Stack AI Engineer in the making
 I specialize in building intelligent applications from scratch, focusing on Python, LLMs, and taking MVPs from concept to deployment. 
@@ -7,9 +7,9 @@ I specialize in building intelligent applications from scratch, focusing on Pyth
 
 ### 🧰 Tech Stack & Tools
 
-* **Core AI/ML:** Python • LLMs (Gemini API) • Prompt Engineering
+* **Core AI/ML:** Python • LLMs • Prompt Engineering
 * **Backend & Web:** Flask • Streamlit • Java
-* **Systems & Tools:** Linux (Ubuntu/WSL) • Git & GitHub • Environment Management
+* **Systems & Tools:** Linux (Ubuntu/WSL) • Git & GitHub • Docker
 * **Cross Platform:** Flutter
 
 ---
